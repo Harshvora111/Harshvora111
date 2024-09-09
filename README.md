@@ -9,7 +9,7 @@ Currently, I'm gaining hands-on experience with React Js technology at Nexalus S
 
 <h2>Education 📚</h2>
 B.Tech(IT) : Bachelor of Technology in Information Technology (IT)
-In Silver Oak University (2023 - Present)
+In Silver Oak University (2024 - Present)
 
 <h2>Skills 🚀</h2>
 Programming Languages: HTML, CSS, Javascript, ReactJs
